@@ -1,0 +1,25 @@
+CALCULO DE IMPUESTOS
+
+***Tabla recibo de honorarios***
+Ingresos          0.0
+(+) IVA           0.0
+(=) Subtotal      0.0
+(-) Retencion ISR 0.0
+(=) TOTAL         0.0
+TABLA GANANCIAS   
+Ingresos          0.0
+(-) Gasto         0.0
+(=) Ganancia Bruta0.0
+(-) ISR           0.0
+(-) Ganancia Neta 0.0
+TABLA ISR         
+
+ISR               0.0
+(-) ISR Retenido  0.0
+(=) ISR a Pagar   0.0
+TABLA IVA         
+
+IVA               0.0
+(-) Gasto IVA     0.0
+(-) Retencion IVA 0.0
+(=) IVA a Pagar   0.0

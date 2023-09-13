@@ -1,0 +1,25 @@
+CALCULO DE IMPUESTOS
+
+***Tabla recibo de honorarios***
+Ingresos          1212.0
+(+) IVA           193.92
+(=) Subtotal      1405.92
+(-) Retencion ISR 121.2
+(=) TOTAL         1163.5201
+TABLA GANANCIAS   
+Ingresos          1212.0
+(-) Gasto         0.0
+(=) Ganancia Bruta1212.0
+(-) ISR           133.32
+(-) Ganancia Neta 1078.6799
+TABLA ISR         
+
+ISR               133.32
+(-) ISR Retenido  121.2
+(=) ISR a Pagar   12.12001
+TABLA IVA         
+
+IVA               193.92
+(-) Gasto IVA     0.0
+(-) Retencion IVA 121.2
+(=) IVA a Pagar   72.72
