@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1684689452 source:c:\users\carlo\desktop\actividades eda 2023a\actividad 9 eda\main.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	<fstream>
+	<sstream>
+	<vector>
+	<locale.h>
+	"Materia.h"
+	"TDA_Lista_Arreglos.h"
+	"Evaluacion.h"
+	"Tarea.h"
+	"Agenda.h"
+	"Bloc_Notas.h"
+	"Administrador_Nota.h"
+	"util.h"
+
+1684689564 c:\users\carlo\desktop\actividades eda 2023a\actividad 9 eda\materia.h
+
+1684687067 c:\users\carlo\desktop\actividades eda 2023a\actividad 9 eda\tda_lista_arreglos.h
+	"Materia.h"
+
+1683908422 c:\users\carlo\desktop\actividades eda 2023a\actividad 9 eda\evaluacion.h
+
+1683915458 c:\users\carlo\desktop\actividades eda 2023a\actividad 9 eda\tarea.h
+	<string>
+
+1684200848 c:\users\carlo\desktop\actividades eda 2023a\actividad 9 eda\agenda.h
+
+1684419604 c:\users\carlo\desktop\actividades eda 2023a\actividad 9 eda\bloc_notas.h
+
+1684523577 c:\users\carlo\desktop\actividades eda 2023a\actividad 9 eda\administrador_nota.h
+	"util.h"
+	"Bloc_Notas.h"
+
+1684522616 c:\users\carlo\desktop\actividades eda 2023a\actividad 9 eda\util.h
+
