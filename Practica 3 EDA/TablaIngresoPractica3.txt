@@ -1,0 +1,12 @@
+Enero  = 5000.0
+Febrero  = 5000.0
+Marzo  = 0.0
+Abril  = 0.0
+Mayo  = 0.0
+Junio  = 0.0
+Julio  = 0.0
+Agosto  = 0.0
+Septiembre  = 0.0
+Octubre  = 0.0
+Noviembre  = 0.0
+Diciembre  = 0.0
